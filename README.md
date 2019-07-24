@@ -24,7 +24,7 @@ For data from our other projects, see https://github.com/sdsna.
 
 The data is available in Excel or Stata format.
 
-1. Data from 2019 Africa SDG Index & Dashboards, available in [Excel](https://github.com/sdsna/2019AfricaIndex/blob/master/2019-africa-index-results.xlsx)
+1. Data from 2019 Africa SDG Index & Dashboards, available in [Excel](https://github.com/sdsna/2019AfricaIndex/blob/master/2019_africa_index_results.xlsx)
 
 ## Colophon
 Lead writers are Eve de la Mothe Karoubi, Olive Dushime, Grayson Fuller, Enock Nyorekwa Twinoburyo, Abigail Simkoko, and Gary Verburg. Belay Begashaw and Guido Schmidt-Traub supervised the project.
